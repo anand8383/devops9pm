@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding first line
+=======
+added one line 
+>>>>>>> main
